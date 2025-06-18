@@ -1,3 +1,3 @@
-print("Rohit is the admin")
+print("Rohit is admin")
 print("djsfjdfnkf")
 
